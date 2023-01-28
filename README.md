@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <h3>[WAR CRIMES COUNTER]</h3>
+    <h3>[ WAR CRIMES COUNTER ]</h3>
     <img src="https://profile-counter.glitch.me/JunkoFuruto/count.svg?"/>
   </div>
 </div>
