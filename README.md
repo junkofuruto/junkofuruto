@@ -12,7 +12,8 @@
 </div>
 <div align="right">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=JunkoFuruto" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkofuruto&layout=compact&theme=dark&hide_border=true" height="165" alt="stats graph"/>
+    <br/><br/>
   </div>
   <br/>
   <div align="center">
