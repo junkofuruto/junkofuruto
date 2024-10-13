@@ -8,11 +8,11 @@
 <br clear="both"/>
 <br clear="both"/>
 <div>
-  <img align="left" height="250" src="https://media.tenor.com/xS7keKI7IIMAAAAC/terry-davis-frnm.gif"  />
+  <img align="left" height="300" src="https://media.tenor.com/xS7keKI7IIMAAAAC/terry-davis-frnm.gif"  />
 </div>
 <div align="right">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkofuruto&layout=compact&theme=dark&hide_border=true&count_private=false" height="100" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkofuruto&layout=compact&theme=dark&hide_border=true&count_private=false" height="200" alt="stats graph"/>
     <br/><br/>
   </div>
   <br/>
