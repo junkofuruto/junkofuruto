@@ -1,13 +1,4 @@
-<div align="center">
-  <a href="https://constructmg.ru">
-    <img src="images/globe.gif" width="80" alt="Glob Blorg" >
-    <img src="images/constructmg.png" height="80" alt="CMG WEBSITEE" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="images/lockin.jpg" width="200" alt="Lock IN" />
-  <img src="images/employment.jpg" width="200" alt="w*rk" />
-</div>
+<img src="assets/thumbnail.png" alt="thumbnail" style="display:inline;"/>
+<a href="https://constructmg.ru" target="_blank">
+    <img src="assets/link.png" alt="link" style="display:inline;"/>
+</a>
